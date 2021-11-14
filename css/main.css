@@ -596,9 +596,6 @@ color: rgba(255, 255, 255, 0.9);
     list-style: none;
 }
 
-.footer-items {
-
-}
 
 .activ-link, .footer-link{
     margin: 0;
@@ -609,7 +606,6 @@ color: rgba(255, 255, 255, 0.9);
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
-    /* line-height: 60px; */
     color: #FFFFFF;
 }
 
